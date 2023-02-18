@@ -9,11 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376d0194-70a2-468b-8b5b-21be9cb3531e" name="Changes" comment="Add main page and blank servlets">
+    <list default="true" id="376d0194-70a2-468b-8b5b-21be9cb3531e" name="Changes" comment="Add user entitie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/list.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -170,7 +175,7 @@
       <workItem from="1676135128661" duration="88000" />
       <workItem from="1676136120796" duration="2050000" />
       <workItem from="1676140413519" duration="204000" />
-      <workItem from="1676719100320" duration="332000" />
+      <workItem from="1676719100320" duration="3221000" />
     </task>
     <task id="LOCAL-00001" summary="Add main page and blank servlets">
       <created>1676140127236</created>
@@ -179,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676140127236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add user entitie">
+      <created>1676719786445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676719786445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +199,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add main page and blank servlets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add main page and blank servlets" />
+    <MESSAGE value="Add user entitie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user entitie" />
   </component>
 </project>
