@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376d0194-70a2-468b-8b5b-21be9cb3531e" name="Changes" comment="Add user entitie">
+    <list default="true" id="376d0194-70a2-468b-8b5b-21be9cb3531e" name="Changes" comment="Add user model. Add handling buttons click">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/list.jsp" afterDir="false" />
@@ -175,7 +173,7 @@
       <workItem from="1676135128661" duration="88000" />
       <workItem from="1676136120796" duration="2050000" />
       <workItem from="1676140413519" duration="204000" />
-      <workItem from="1676719100320" duration="3221000" />
+      <workItem from="1676719100320" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="Add main page and blank servlets">
       <created>1676140127236</created>
@@ -191,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676719786445</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add user model. Add handling buttons click">
+      <created>1676722510925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676722510925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +205,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add main page and blank servlets" />
     <MESSAGE value="Add user entitie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user entitie" />
+    <MESSAGE value="Add user model. Add handling buttons click" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user model. Add handling buttons click" />
   </component>
 </project>
